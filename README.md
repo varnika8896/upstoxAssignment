@@ -1,4 +1,4 @@
-All Assignment related filed can be found inside ./src folder.
+All Assignment related files can be found inside ./src folder.
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
